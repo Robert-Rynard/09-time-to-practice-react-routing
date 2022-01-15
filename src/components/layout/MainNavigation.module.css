@@ -8,6 +8,10 @@
   background-color: #008080;
 }
 
+.centered {
+  background-color: red;
+}
+
 .logo {
   font-size: 2rem;
   color: white;
